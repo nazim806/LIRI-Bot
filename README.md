@@ -33,7 +33,8 @@ IMDB Rating of the movie.
 ![Do-what-it-says](/images/do-what-it-says.PNG)
 
 
-**Technologies used:**
+**Technologies used:**  
+
 Spotify API  
 
 OMDB API   
