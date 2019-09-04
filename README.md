@@ -5,5 +5,5 @@ LIRI will search Spotify for songs, Bands in Town for concerts, and OMDB for mov
 
 Spotify-this-song:
 
- ![Spotify-this-song!](/images/spotify-this.png "Spotify-this-song")
+ ![Spotify-this-song!](/images/spotify-this.PNG "Spotify-this-song")
  
