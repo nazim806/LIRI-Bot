@@ -35,14 +35,14 @@ IMDB Rating of the movie.
 
 **Technologies used:**  
 
-Spotify API  
+**Spotify API**  
 
-OMDB API   
+**OMDB API**   
 
-Bands In Town API   
+**Bands In Town API**   
 
-Node.js   
+**Node.js**   
 
-Javascript   
+**Javascript**  
 
-NPM packages 
+**NPM packages** 
